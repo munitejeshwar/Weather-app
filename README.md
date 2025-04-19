@@ -1,6 +1,6 @@
-## Weather-app
-
 # Build a Weather App using React
+
+# Name: K Muni Tejeshwar
 
 # Date:19/4/25
 
@@ -89,7 +89,7 @@ function WeatherApp() {
 
 export default WeatherApp;
 ```
-#App.css
+# App.css
 ```
 body {
   background-color: #fff7f0;
